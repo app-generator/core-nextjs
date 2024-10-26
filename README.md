@@ -12,28 +12,28 @@ Next.js is a React framework that provides additional structure, features, and o
 1. First clone the GitHub repository and navigate into the project folder:
 
 ```bash
-    git clone https://github.com/app-generator/core-nextjs.git`
-    cd core-nextjs
+$ git clone https://github.com/app-generator/core-nextjs.git
+$ cd core-nextjs
 ```
 
 2. Next, install dependencies:
 
 ```bash
-    npm install
-    # or
-    yarn install
+$ npm install
+# or
+$ yarn install
 ```
 
 3. Finally, run the development server:
 
 ```bash
-    npm run dev
-    # or
-    yarn dev
-    # or
-    pnpm dev
-    # or
-    bun dev
+$ npm run dev
+# or
+$ yarn dev
+# or
+$ pnpm dev
+# or
+$ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -47,7 +47,7 @@ This project includes [shadcn](https://ui.shadcn.com/) integration, providing yo
 To add more shadcn/ui components, use the following command:
 
 ```bash
-    npx shadcn add <component-name>
+$ npx shadcn add <component-name>
 ```
 
 <br />
