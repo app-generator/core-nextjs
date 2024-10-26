@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Getting Started with NextJS](https://app-generator.dev/docs/technologies/nextjs/index.html)
+
+Coding sample for **[Getting Started with NextJS documentation page](https://app-generator.dev/docs/technologies/nextjs/index.html)**. 
+Next.js is a React framework that provides additional structure, features, and optimizations for your application. Created by Vercel, it enables you to build full-stack web applications by extending React's capabilities with server-side functionality.
+
+> 👉 Get [Support](https://app-generator.dev/ticket/create/) via `email` & `Discord` 
+
+<br />
 
 ## Getting Started
 
@@ -42,3 +49,8 @@ To add more shadcn/ui components, use the following command:
 ```bash
     npx shadcn add <component-name>
 ```
+
+<br />
+
+---
+**[Getting Started with NextJS](https://app-generator.dev/docs/technologies/nextjs/index.html)** - Coding sample provided by **[App Generator](https://app-generator.dev/)**
